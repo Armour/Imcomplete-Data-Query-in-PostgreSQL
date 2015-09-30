@@ -1,0 +1,12 @@
+[submodule "kISB-PostgreSQL"]
+	path = K-SkyBand-Query-in-PostgreSQL
+	url = git@github.com:Armour/K-SkyBand-Query-in-PostgreSQL.git
+[submodule "kISB-C"]
+	path = KeySkyBandQuery
+	url = git@github.com:Armour/KeySkyBandQuery.git
+[submodule "iknn-HA-PostgreSQL"]
+	path = iknn-HA
+	url = git@github.com:Travelinglight/iknn-HA.git
+[submodule "iknn-LP-PostgreSQL"]
+	path = iknn-LP
+	url = git@github.com:Travelinglight/iknn-LP.git
