@@ -10,3 +10,6 @@
 [submodule "iknn-LP-PostgreSQL"]
 	path = iknn-LP
 	url = git@github.com:Travelinglight/iknn-LP.git
+[submodule "top-k-dominating"]
+	path = top-k-dominating
+	url = git@github.com:iykon/top-k-dominating.git
