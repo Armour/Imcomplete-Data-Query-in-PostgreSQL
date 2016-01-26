@@ -1,4 +1,4 @@
-# Imcomplete-Data-Query-in-PostgreSQL
+# Incomplete-Data-Query-in-PostgreSQL
 This repo is used to implement different kinds of imcomplete data queries in postgresql
 
 ## Content && Contributors
