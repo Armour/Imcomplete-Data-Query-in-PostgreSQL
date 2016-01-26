@@ -1,5 +1,5 @@
 # Incomplete-Data-Query-in-PostgreSQL
-This repo is used to implement different kinds of imcomplete data queries in postgresql
+This repo is used to implement different kinds of incomplete data queries in PostgreSQL
 
 ## Content && Contributors
 * [Armour](https://github.com/Armour)
